@@ -37,5 +37,5 @@ I am also using a tool called Github Copilot.
 ## Agenda
 
 1. Using `pandas` to plot time series data.
-2. Latent-Semantic Analysis
+2. Latent-Semantic Analysis (NLP Technique)
 3. Semantic Embeddings with Open AI.
